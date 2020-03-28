@@ -131,8 +131,8 @@ public class MyBinarySearchTree {
             return;
         }
 
-        postOrder(node.getLeft());
-        postOrder(node.getRight());
+       postOrder(node.getLeft());
+       postOrder(node.getRight());
     }
 
 }
