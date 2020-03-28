@@ -19,12 +19,7 @@ public class MyMain {
 
 
 
-        /*
-        My binary search tree class in this package supports insertion of left children in to queue during
-        the time of insertion.
-        also if we subtract total number the number of queue elements from totla elements present we will get
-         nodes not having left children.
-         */
+
 
         //printing left children
         m.getQueue().queuePrint(m.getQueue());
