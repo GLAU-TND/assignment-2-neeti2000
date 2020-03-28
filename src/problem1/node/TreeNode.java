@@ -43,7 +43,7 @@ public class TreeNode {
         return data;
     }
 
-    public void setData(int data) {
+   public void setData(int data) {
         this.data = data;
     }
 }
